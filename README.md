@@ -9,6 +9,6 @@ I build things in JavaScript (or TypeScript these days) - mostly with React.js a
 - ⚛ React.js, Next.js, Gatsby.js
 - 📱 React Native, Flutter
 - 🧱 HTML, JavaScript, TypeScript, Dart
-- 💄 CSS, Tailwind CSS, Chakra UI
+- 💄 CSS, Tailwind CSS, Chakra UI, Ant Design, Styled Components
 - 🙈 Git, Github
 - 🐳 AWS, EC2, ECS, Docker, Kubernetes
