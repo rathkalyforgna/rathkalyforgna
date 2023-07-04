@@ -11,4 +11,4 @@ I build things in JavaScript (or TypeScript these days) - mostly with React.js a
 - 🧱 HTML, JavaScript, TypeScript, Dart
 - 💄 CSS, Tailwind CSS, Chakra UI
 - 🙈 Git, Github
-- ☁️ AWS, EC2, ECS, Docker, Kubernetes
+- 🐳 AWS, EC2, ECS, Docker, Kubernetes
